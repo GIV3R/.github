@@ -1,2 +1,2 @@
 # GIV3R
-![GIV3R](images/logo.jpg)
+<img src="https://github.com/GIV3R/.github/blob/main/profile/images/logo.jpg"/>
